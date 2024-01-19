@@ -1,4 +1,4 @@
-weight = 1.5
+weight = 1.6
 
 # Ground Shipping
 
