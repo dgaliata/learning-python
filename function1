@@ -6,7 +6,7 @@ def do_something():
 do_something()
 
 def do_more_things(a, b):
-    print("A IS", a, "B IS", b)
+    print("A IS for", a, "and", "B IS for", b)
 
-do_more_things("hello", 1)
+do_more_things("Apple", "Boy")
 
