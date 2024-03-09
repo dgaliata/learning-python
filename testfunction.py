@@ -29,6 +29,19 @@ cheese_and_crackers(10 + 20, 5 + 6)
 print("And we can combine the two, variables and math:")
 cheese_and_crackers(amount_of_cheese + 100, amount_of_crackers + 1000)
 
+def add(a, b):
+    print(f"ADDING {a} + {b}")
+    return a + b
+
+add(10,5)
+
+a = 10
+b = 5
+
+print(f"I guess the answer is {a} + {b}")
+print(f"which is {a + b}")
+print(f"the final answer is... {a + b}")
+
 
 
 
