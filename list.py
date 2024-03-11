@@ -17,5 +17,4 @@ print (american_food_menu[3])
 input ("What do you want to order?")
 
 print("Order coming right up!")
-
-print (menu)    
+#print (menu)    
