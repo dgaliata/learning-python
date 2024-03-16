@@ -1,3 +1,4 @@
+# Opening it with a { (curly-brace).
 email = {
     "From": "john_smith@gmail.com",
     "to": "david@david.com",
@@ -5,4 +6,3 @@ email = {
 };
 
 print(email["From"])
-# Opening it with a { (curly-brace).
