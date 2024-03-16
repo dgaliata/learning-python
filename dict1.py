@@ -4,6 +4,5 @@ email = {
     "Subject": "Hello David"
 };
 
-
-
 print(email["From"])
+# Opening it with a { (curly-brace).
