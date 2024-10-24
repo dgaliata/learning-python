@@ -72,3 +72,4 @@ def create_user_mapping(username, department, title):
 
 create_user_mapping("John Doe", "IT", "Systems Administrator")
 
+
