@@ -72,4 +72,10 @@ def create_user_mapping(username, department, title):
 
 create_user_mapping("John Doe", "IT", "Systems Administrator")
 
+characters = ["Mario", "Link", "Donkey Kong",]
+for character in characters:
+    print(f"{character.title()} you're a Nintendo video game character")
+
+print("There are no XBOX characters in the list")
+
 
