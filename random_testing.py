@@ -76,6 +76,19 @@ characters = ["Mario", "Link", "Donkey Kong",]
 for character in characters:
     print(f"{character.title()} you're a Nintendo video game character")
 
+copy_characters = characters[:]
+print(copy_characters)
+
 print("There are no XBOX characters in the list")
 
+first_numbers = list(range(1,11))
+print(first_numbers)
 
+
+drinking_age = int(input("How old are you? ")) #Use int(input()) when you need a number for calculations or comparisons
+
+if drinking_age >= 21:
+    print ("You are old enough to drink")
+
+else:
+    print ("Not old enough!")
